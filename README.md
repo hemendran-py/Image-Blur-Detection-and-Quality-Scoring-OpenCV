@@ -6,7 +6,10 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A complete web application for detecting image blur using Laplacian variance with OpenCV. Features a Flask REST API backend and a responsive HTML/JavaScript frontend for easy image quality assessment.
-
+<div style="display: flex; gap: 20px; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/549a2721-2434-4faf-9ab2-f3ecaf66edde" width="400">
+  <img src="https://github.com/user-attachments/assets/54b59257-d096-4e7c-bd79-25bbfcac6bca" width="400">
+</div>
 ## 🚀 Features
 
 - **Blur Detection**: Uses Laplacian variance algorithm for accurate blur measurement
